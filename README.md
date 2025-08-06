@@ -4,7 +4,7 @@ Bu uygulama, PyQt6 ile geliştirilmiş bir masaüstü stok takip sistemidir. Kul
 
 ## 🖼️ Ekran Görüntüsü
 
-![Stok Uygulaması Görseli](stok_uygulamasi_ss.png)
+![Stok Uygulaması Görseli](stok_uygulaması_ss.png)
 
 
 ## ⚙️ Özellikler
